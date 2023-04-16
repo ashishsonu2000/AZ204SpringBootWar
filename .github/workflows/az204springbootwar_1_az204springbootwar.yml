@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'AZ204SpringBootWar'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_10FE6E1B683E4BD184AF4B66C3F9EF04 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6AC83B8630CD4581BE684C77C02D3203 }}
           package: '*.war'
